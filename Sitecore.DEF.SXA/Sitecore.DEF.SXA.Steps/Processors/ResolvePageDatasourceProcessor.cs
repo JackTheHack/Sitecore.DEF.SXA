@@ -9,10 +9,7 @@ using Sitecore.DEF.SXA.Steps.Settings;
 using Sitecore.Services.Core.Diagnostics;
 using Sitecore.Services.Core.Model;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Sitecore.DEF.SXA.Steps.Processors
 {

@@ -17,7 +17,7 @@ namespace Sitecore.DEF.SXA.Steps.Processors
 {
     [RequiredEndpointPlugins(new Type[] { typeof(ItemModelRepositorySettings) })]
     [RequiredPipelineStepPlugins(new Type[] { typeof(TransformPresentationSettings) })]
-    public class RBNZTransformPresentationProcessor : BasePipelineStepProcessor
+    public class TransformPresentationProcessor : BasePipelineStepProcessor
     {
         private TransformPresentationSettings _settings;
 

@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\DataExchangeConstants.cs" />
+    <Compile Include="Processors\ResolveItemWithGroupingProcessor.cs" />
     <Compile Include="Processors\ResetPresentationLayout.cs" />
     <Compile Include="Processors\ResolveItemStepProcessor.cs" />
     <Compile Include="Processors\ResolvePageDatasourceProcessor.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings\AddLocalDatasourceSettings.cs" />
     <Compile Include="Settings\PipelineIndexerSettings.cs" />
+    <Compile Include="Settings\ResolveItemWithGroupingSettings.cs" />
     <Compile Include="Settings\ResetPresentationSettings.cs" />
     <Compile Include="Settings\TransformPresentationSettings.cs" />
   </ItemGroup>
